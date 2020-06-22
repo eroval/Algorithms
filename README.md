@@ -2,7 +2,7 @@
 - Selection Sort
 - Bubble Sort
 - Insertion Sort
-## Note:
+## //Note:
     All have multiple implementations, including binary search.
 
 # Linear Algebra
