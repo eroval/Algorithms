@@ -1,2 +1,6 @@
 # Sorting Algorithms
-Sorting algorithms implemented in different ways
+- Selection Sort
+- Bubble Sort
+- Insertion Sort
+## Note:
+    All have multiple implementations, including binary search.
