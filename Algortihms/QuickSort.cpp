@@ -12,7 +12,7 @@ void print(int* arr, int n) {
 	std::cout << "\n";
 }
 
-void quicksort(int* arr, int n, int start, int end)
+void quicksort(int* arr, int start, int end)
 {
 
 	int pivot = arr[(start + end) / 2];
@@ -57,7 +57,7 @@ int main() {
   
 	print(arr, n);
 	std::cout << "\n";
-	quicksort(arr, n, 0, n - 1);
+	quicksort(arr, 0, n - 1);
 	print(arr, n);
 
 
