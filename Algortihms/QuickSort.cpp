@@ -41,8 +41,8 @@ void quicksort(int* arr, int start, int end)
 			--j;
 		}
 	}
-	quicksort(arr, n, start, j);
-	quicksort(arr, n, i, end);
+	quicksort(arr, start, j);
+	quicksort(arr, i, end);
 }
 
 
