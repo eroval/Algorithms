@@ -2,6 +2,7 @@
 - Selection Sort
 - Bubble Sort
 - Insertion Sort
+- Quick Sort
 ## //Note:
     All have multiple implementations, including binary search.
 
