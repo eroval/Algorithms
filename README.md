@@ -2,12 +2,13 @@
     Most are some "casual" implementations and not meant to be used as structures or algorithms in full-fledged programs.  
     They were done purely for the exercise and need to be reworked if used for real projects.
 
-# Sorting Algorithms
+# Algorithms
 - Selection Sort
 - Bubble Sort
 - Insertion Sort
 - Quick Sort
 - Merge Sort
+- Hanoi Towers
 
 # Data Structures
 - Balanced Trees
