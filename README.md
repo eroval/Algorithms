@@ -17,7 +17,7 @@
 - Stack
 
 ## To do:
-- AVL Tree
+- AVL Trees
 - Red-black Tree
 - Iterative versions of different algos and structures
 
