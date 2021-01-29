@@ -2,7 +2,7 @@
     Most are some "casual"  implementations and not meant to be used as structures or algorithms in full-fledged programs.  
     They were done purely for the exercise and need to be reworked if used for real projects.
 
-# To do:
+## To do:
 - AVL Tree
 - Red-black Tree
 - Iterative versions of different algos and structures
