@@ -12,7 +12,7 @@
 - Quick Sort
 - Merge Sort
 
-#Data Structures
+# Data Structures
 - Balanced Trees
 - Binary Search Tree
 - Binary Search Tree with node removal
