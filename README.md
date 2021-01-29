@@ -20,7 +20,7 @@
 - Binary Search Tree with node removal
 - Queue
 - Stack
-## //Note:
+## // Note:
     All have multiple implementations.
 
 # Linear Algebra
