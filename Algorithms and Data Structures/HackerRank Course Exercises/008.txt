@@ -1,0 +1,31 @@
+Дадено е кореново дърво с  върха, номерирани от 1 до , представено със Списък на родителите. За родител на корена е посочено цяло число, което е по-малко от 1. Напишете програма да намира разклонеността на дървото и разклонеността на всеки от върховете.
+
+English A rooted tree with  vertices, labeled from 1 to , is given, presented in ia List of parents. As a parent of the root an integer that is not a number of a vertex is given. Write a program to find the branching of the rooted tree and the branching of each vertex.
+
+Input Format
+
+На първият ред на стандартния вход ще бъде зададен броят  на върховете, а на всеки от следващите  реда родителят на един от върховете, в нарастващ ред на номерата им.
+
+English On the first line of thwe standard input a number of the vertices  will bw givwn, and on each of the next  line the parent of a vertex, ordered in increasing order of labels.
+
+Constraints
+
+
+Output Format
+
+На първия ред на стандартния изход програмата трябва да изведе разклонеността на дървото, а на втория - разклоненостите на върховете, разделени с по един интервал и подредени в нарастващ ред на номерата им.
+
+English On the first line of the standard output the program has to print the branching of the rooted tree, and on the second - branching of the vertices, separated by single intervals and ordered in increasing order of their labels.
+
+Sample Input 0
+
+5
+2
+0
+1
+2
+2
+Sample Output 0
+
+3
+1 3 0 0 0 
