@@ -1,0 +1,30 @@
+Дадени са две множества -  с  елемента и  с  елемента, сортирани в нарастващ ред. Напишете програма, която намира сечението на двете множества, т.е. множеството чиито елементи принадлежат както на , така и на .
+
+English Given two sets -  with  elements and  with  elements, sorted in increasing order. Write a program to find the intersection of the two sets, i.e. the set of elements that belong to both to  and .
+
+Input Format
+
+Първият ред на стандартния вход ще съдържа числата  и . На втория ред ще са зададени елементите на , а на третия - на .
+
+English Firts line of the standard input will contain the numbers  and . Second line will contain the elements of  and third - of .
+
+Constraints
+
+В три от примерите  и  ще са до 1000. В един пример  и  ще са до 10000, а в един - до 100000.
+
+English In three of the test cases  and  will be no more than 1000. In one test case  and  will be no more than 10000, and in one test case - no more than 100000.
+
+Output Format
+
+На един ред на стандартния изход програмата трябва да извете елементите на сечението, сортирани в нарастващ ред.
+
+English On a single row of the standard output the program have to print the elements of the intersection sorted in increasing order.
+
+Sample Input 0
+
+7 6
+1 3 9 15 26 37 84
+3 15 20 31 84 100
+Sample Output 0
+
+3 15 84 
