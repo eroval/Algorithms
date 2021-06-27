@@ -1,0 +1,31 @@
+Дадено е кореново дърво с  върха, номерирани от 1 до , в представянето Списък на родителите. За родител на корена е посочено цяло число, което е по-малко от 1. Напишете програма, която да намира коренът на дървото и неговите листа.
+
+English A rooted tree with  vertices labeled with integers from 1 to  is given in pesentation List of parents. As a partent of the root an integer is given that is not a label of a vertex. Write a program to find the root and the leaves of the tree.
+
+Input Format
+
+На първия ред на стандартния вход ще бъде зададен броят  на върховете, а на всеки от следващите  реда - родителят на един от върховете на дървото, в реда на номерацията им.
+
+English First line of the standard input will contain the number  of the vertices. Each of the next  lines will contain the parent of one of the vertices in order of their labels.
+
+Constraints
+
+
+Output Format
+
+На първия ред на стандартния изход програмата трябва да изведе корена на дървото, а на следващия - листата на дървото, разделени с по един интервал и сортирани в нарастващ ред.
+
+English On the first line of the standard output the program has to print the root of the tree, and on the second - leaves of the tree, separated by single intervals and sorted in increasing order of the labels.
+
+Sample Input 0
+
+5
+2
+0
+1
+2
+2
+Sample Output 0
+
+2
+3 4 5 
