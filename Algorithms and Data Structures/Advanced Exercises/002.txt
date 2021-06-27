@@ -1,0 +1,21 @@
+Дадено е множество  от  цели положителни числа. Напишете програма за сортиране на елементите на множеството в нарастващ ред.
+
+English Given a set  with  positive integers. Write a program to sort elements of the set in increasing order.
+
+Input Format
+
+На първия ред на стандартния вход ще бъде зададено числото , а на втория ред - елементите на множеството.
+
+English First line of the standard input will contain the number , and the secong - the elements of the set.
+
+Constraints
+
+В петте тестови примера  ще бъде 1000, 10000, 100000, 500000 и 1000000, съответно, като в първите три теста елементите ще бъдат не по-големи от 32000.
+
+English In the five test cases  will be 1000, 10000, 100000, 500000 and 1000000, respectively. In the first three test cases the elements will be not larger than 32000.
+
+Output Format
+
+На един ред на стандартния изход програмата трябвада изведе елементите сортирани в нарастващ ред.
+
+English On a single row of the standard output the program has to print the elements sorted in increasing order.
