@@ -23,6 +23,7 @@
 - Binary Search Tree with node removal
 - Queue
 - Stack
+- Graphs
 
 ## To do:
 - AVL Trees
