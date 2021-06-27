@@ -1,0 +1,33 @@
+Даден е граф  с  върха и  ребра, представен със Списък на ребрата. Напишете програма, която преобразува представянето на графа в Матрица на съседствата.
+
+English Given a graph  with  vertices and  edges presented with List of edges. Write a program to transform it in the presentation Adjacency Matrix.
+
+Input Format
+
+На първия ред на стандартния вход ще бъдат зададени броят  на върховете и броят  на ребрата. На всеки от следващите  реда ще бъдат зададени двата края  и  на едно от ребрата.
+
+English First line of the standard input will contain the number  of the vertices and the number  of the edges. On each of the next  lines the two ends of one of the edges will be given.
+
+Constraints
+
+, , 
+
+Output Format
+
+На всеки от -те реда на стандартния изход програмата трябвада изведе един от редовете на матрицата, като на -тия ред на изхода е редът на матрицата за върха .
+
+English On each of the  lines of the standard output the program has to print one of the rows of the matrix, on -th line of the output has to be the row of the matrix for -th vertex.
+
+Sample Input 0
+
+4 4
+1 2
+1 3
+1 4
+2 3
+Sample Output 0
+
+0 1 1 1 
+1 0 1 0 
+1 1 0 0 
+1 0 0 0 
