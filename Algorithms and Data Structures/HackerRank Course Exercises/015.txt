@@ -1,0 +1,38 @@
+Даден е граф  с  върха,  ребра и тегла на ребрата, представен с Претеглен списък на ребрата. Напишете програма, която намира най-късия път от връх 1 до зададен връх .
+
+English Given a graph  with  vertices,  edges and weights on edges, presented with Weighted list of edges. Write a program to find the shortest path from vertex 1 to given vertex .
+
+Input Format
+
+На първия ред на стандартния вход ще бъдат зададени броят  на върховете, броят  на ребрата и върхът . На всеки от следващите  реда ще бъдат зададени двата края  и  на едно от ребрата и теглото му .
+
+English First line of the standard input will contain the number  of the vertices, the number  of the edges and verex . On each of the next  lines the two ends  and  of one of the edges and its weight  will be given.
+
+Constraints
+
+, , , 
+
+Output Format
+
+На стандартния изход програмата трябва да изведе върховете на намерения най-къс път, разделени с по един интервал и неговата претеглена дължина.
+
+English On the standard output the program has to print the vertices of the shortest path found separate by a single intervals and its weighted length.
+
+Sample Input 0
+
+8 11 3
+1 2 92
+1 7 28
+2 4 89
+2 6 55
+3 7 128
+3 8 43
+4 5 51
+5 6 70
+5 8 100
+6 7 7
+6 8 70
+Sample Output 0
+
+1 7 6 8 3 
+148
