@@ -1,0 +1,27 @@
+Дадено е сортирано в нарастващ ред множество с  различни елемента - цели положителни числа и цели положително числa  и . Напишете програма, която да проверява дали  и  принадлeжат на множеството.
+
+English Given sorted in increasing order set with  different elements - positive integers and positive integers  and . Write a program to check are  and  elements of the set.
+
+Input Format
+
+На първия ред на стандартния вход ще бъде зададено числото , на втория - елементите на масива, а на третия - числете  и .
+
+English First line of the standard input will contain the number , the second - elements of the set, and the third - the numbers  and .
+
+Constraints
+
+
+Output Format
+
+На един ред на стандартния изход програмата трябва да изведе поредните номер на  и  в нарастващия ред (при номерация започваща от 0), ако  и  принадлежат на множеството. Ако някое от двете числа не е в множеството, тогава като негов номер програмата трябва да изведе -1.
+
+English On a single row of the standard output the program has to print the positions of  and  in the sorted order (starting from 0) if  and  belong to the set or -1 if the corresponding number is nоt in the set.
+
+Sample Input 0
+
+10
+1 7 12 13 29 50 56 70 88 90
+57 29
+Sample Output 0
+
+-1 4
