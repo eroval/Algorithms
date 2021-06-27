@@ -3,12 +3,19 @@
     They were done purely for the exercise and need to be reworked if used for real projects.
 
 # Algorithms
+- Intersection/Union/Division
 - Selection Sort
 - Bubble Sort
 - Insertion Sort
 - Quick Sort
 - Merge Sort
 - Hanoi Towers
+- Depth First Search (DFS)
+- DFS Spanning Tree
+- Breadth First Search (BFS)
+- BFS Spanning Tree
+- Dijkstra
+- All Shortest Paths
 
 # Data Structures
 - Balanced Trees
