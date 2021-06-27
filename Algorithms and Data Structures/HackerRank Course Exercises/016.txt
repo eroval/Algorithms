@@ -1,0 +1,42 @@
+Даден е граф  с  върха,  ребра и дължини на ребрата, представен с претеглен Списък на ребрата. Напишете програма, която да намира дължините на най-късите пътища от всеки връх на графа до всеки друг връх.
+
+English Graph  with  vertices,  edges and length of the edges is presented by weighted List of edges. Write a program to find the lenghts of shortest paths from each vertex to each other vertex of the graph.
+
+Input Format
+
+На първия ред на стандартния вход ще бъдат зададени броят  на върховете на графа, броят  на ребрата му и броят  на заявките за извеждане на дължини на най-къси пътища. На всеки от следващите  реда ще бъдат зададени двата края на едно ребро на графа и дължината  на това ребро, а на всеки от последните  реда - по една двойка върхове, за които програмата трябва да изведе дължината на най-късия път между тях.
+
+English First line of the standard input will contain the number  of the vertices of the graph, the number  of its edges and number  of thе requests for printing lenghts of some shortest paths. Each of the next  lines will contain two ends of one of the edges and length  of this edge. Each of the last  lines will contain two wertices that the program has to print the length of the shortest path between them.
+
+Constraints
+
+, 
+
+Output Format
+
+За всяка заявка, на отделен ред на стандартния изход програмата трябва да изведе дължината на най-късия път между съответните два върха.
+
+English For each request the program has to print on a separate line of the standard output the length of the shortest path between the corresponding verrtices.
+
+Sample Input 0
+
+8 11 3
+1 2 92
+1 7 28
+2 4 89
+2 6 55
+3 7 128
+3 8 43
+4 5 51
+5 6 70
+5 8 100
+6 7 7
+6 8 70
+2 7
+1 6
+1 8
+Sample Output 0
+
+62
+35
+105
