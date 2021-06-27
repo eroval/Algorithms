@@ -1,0 +1,37 @@
+Дадено е цяло порложително число  и  цели числа. Напишете програма, която построява нарастваща (не намаляваща) двоична пирамида от -те числа. След това програмата трябва да въведе още едно число и да го вмъкне в пирамидяата.
+
+English Given positive integer  and  integer. Wrirte a program to build an increasing (not decreasing) binary heap with the given integers. After that the program has to input one more number and to insert it in the heap.
+
+Input Format
+
+Пръвият ред на стандартния вход ще съдържа числото , вторият - -те числа от които да се създаде пирамида, а последният - само числото, което трябва да се вмъкне в пирамидата.
+
+** English** First line of the standard input will contain the number , the second - given  integers, and third - the number that has to be inserted in the heap.
+
+Constraints
+
+
+Output Format
+
+След построяването на пирамидата, програмата трябва да я покаже в  реда на стандартния изход, като на i-тия ред изпише , две точки и кое е числото в позиция . След добавянето на новия елемент в пирамидата програмата трябва да изведе на нов ред позицията в пирамидата, на която е вмъкнат.
+
+English After the heap is built the program has to show it in  lines of the srtandard outputh. The -th line have to contain , colon and the number in position  of the heap. After the new element is inserted in the heap the program has to print on a new line its position in the heap.
+
+Sample Input 0
+
+10
+7 22 13 5 2 9 10 12 8 9
+4
+Sample Output 0
+
+1:2
+2:5
+3:9
+4:7
+5:9
+6:13
+7:10
+8:12
+9:8
+10:22
+2
