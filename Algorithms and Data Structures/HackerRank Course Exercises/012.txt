@@ -1,0 +1,44 @@
+Даден е граф  с  върха и  ребра, представен със Списък на ребрата. Напишете програма, която построява покриващо дърво на графа в ширина с начален връх 1.
+
+English Given a graph  with  vertices and  edges presented with List of edges. Write a program to build a spanning tree of the graph in bredth with initial vertex 1.
+
+Input Format
+
+На първия ред на стандартния вход ще бъдат зададени броят  на върховете и броят  на ребрата. На всеки от следващите  реда ще бъдат зададени двата края  и  на едно от ребрата.
+
+English First line of the standard input will contain the number  of the vertices and the number  of the edges. On each of the next  lines the two ends of one of the edges will be given.
+
+Constraints
+
+, , 
+
+Output Format
+
+На всеки от -те реда на стандартния изход програмата трябвада изведе eдин от върховете на графа и неговия родител в построеното дърво, раздерени с двоеточие и интервал, като на -тия ред на изхода е -тия връх. Всеки връх, различен от корена трябва да е свързан в дървото към най-рано добавения в дървото негов съсед от предното ниво.
+
+English On each of the  lines of the standard output the program has to print one of the verticeds of the graph and its parent in the tree, separated by colon and interval - on -th line of the output has to be the -th vertex. Each vertex, but the root, has to be linked to its neighbour from previous level whics the earliest included in the tree.
+
+Sample Input 0
+
+8 11
+1 2
+1 7
+2 4
+2 6
+3 7
+3 8
+4 5
+5 6
+5 8
+6 7
+6 8
+Sample Output 0
+
+1: 0
+2: 1
+3: 7
+4: 2
+5: 4
+6: 2
+7: 1
+8: 6
